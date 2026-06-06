@@ -1,0 +1,10 @@
+# IntelliJ IDEA internal project configuration files
+.idea/
+*.iml
+
+# Java compilation output folder
+out/
+
+# OS-specific temporary hidden files (like Mac or Windows shortcuts)
+.DS_Store
+Thumbs.db
