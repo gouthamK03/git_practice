@@ -5,4 +5,7 @@ public class Main {
     public static void bookCab() {
         System.out.println("Cab booked successfully!");
     }
+    public static void payment(){
+        System.out.println("this is method for payment check");
+    }
 }
